@@ -1,6 +1,6 @@
-[submodule "third_party/grpc"]
+[submodule "grpc"]
 	path = third_party/grpc
-	url = https://github.com/grpc/grpc.git
+	url = https://github.com/grpc/grpc
 	branch = master
 [submodule "third_party/abseil-cpp"]
 	path = third_party/abseil-cpp
